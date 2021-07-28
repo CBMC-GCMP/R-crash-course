@@ -65,39 +65,90 @@ output:
 
 # Weblinks
 
-### Basics
+## R-programming info
 
-- R for data science: https://r4ds.had.co.nz
-- Modern R dive: https://moderndive.com/index.html
-- Data wrangling with R: https://cengel.github.io/R-data-wrangling/
-- The Tidyverse style guide: https://style.tidyverse.org/index.html
+List of R coding resources I have been compiling over the years, feel free to suggest links to be added below in the chat
 
-### Advanced
+## Basics
+R for data science: https://r4ds.had.co.nz/
+Modern R dive: https://moderndive.com/index.html
+Data wrangling with R: https://cengel.github.io/R-data-wrangling/
+The Tidyverse style guide: https://style.tidyverse.org/index.html
+aRrgh: a newcomer’s (angry) guide to R: http://arrgh.tim-smith.us/
+YaRrr! The Pirate’s Guide to R: https://bookdown.org/ndphillips/YaRrr/
 
-- Advanced R: https://adv-r.hadley.nz/
-- Efficient R programming: https://bookdown.org/csgillespie/efficientR/
-- R programming for Data Science: https://bookdown.org/rdpeng/rprogdatascience/
-- Hands on programming with R: https://rstudio-education.github.io/hopr/
+## Advanced
+Advanced R: https://adv-r.hadley.nz/
+Efficient R programming: https://bookdown.org/csgillespie/efficientR/
+R programming for Data Science: https://bookdown.org/rdpeng/rprogdatascience/
+Hands on programming with R: https://rstudio-education.github.io/hopr/
+What They Forgot to Teach You About R: https://rstats.wtf/
 
-### Visualization
+## Visualization
+Fundamentals of data visualization: https://serialmentor.com/dataviz/
+Interactive animations: https://plotly-r.com/
+Top 50 visualization with R: http://r-statistics.co/Top50-Ggplot2-Visualizations-MasterList-R-Code.html
+The R graph gallery: https://www.r-graph-gallery.com/
+Graphs cookbook: http://www.cookbook-r.com/Graphs/
+Esquisse: https://dreamrs.github.io/esquisse/index.html
+Diagrams: http://rich-iannone.github.io/DiagrammeR/
 
-- Fundamentals of data visualization: https://serialmentor.com/dataviz/
-- Interactive animations: https://plotly-r.com/
-- Top 50 visualization with R: http://r-statistics.co/Top50-Ggplot2-Visualizations-MasterList-R-Code.html
-- The R graph gallery: https://www.r-graph-gallery.com/
-- Graphs cookbook: http://www.cookbook-r.com/Graphs/
+## Iterative programming
+purrr-package: https://purrr.tidyverse.org/
+furrr-package: https://github.com/DavisVaughan/furrr
+Fabbiologia — 07/01/2021
+R-spatial 
+Intro to spatial data with R: https://nceas.github.io/oss-lessons/spatial-data-gis-law/3-mon-intro-gis-in-r.html
+Simple Features in R: https://r-spatial.github.io/sf/index.html
+R Advanced Spatial Lessons: https://bbest.github.io/R-adv-spatial-lessons/
+Mapview: https://environmentalinformatics-marburg.github.io/mapview/advanced/advanced.html
+Geocomputation with R: https://geocompr.robinlovelace.net/
+mregions-package: https://github.com/ropensci/mregions
+Spatial data science: https://rspatial.org/raster/index.html#
+rlandsat-package: https://github.com/atlanhq/rLandsat
 
-### Documents creation
+## Strings handlings
+Text mining with R: https://www.tidytextmining.com/
+Handling Strings With R: https://www.gastonsanchez.com/r4strings/intro.html
+Fulltext: https://docs.ropensci.org/fulltext/articles/fulltext.html
 
-- Rmarkdown definitive guide: https://bookdown.org/yihui/rmarkdown/
-- Bookdown & blogdown: https://bookdown.org
+## Documents creation
+Rmarkdown definitive guide: https://bookdown.org/yihui/rmarkdown/
+Bookdown & blogdown: https://bookdown.org/
 
-### Miscellaneous tutorials
+## Statistics
+ModernDive: https://moderndive.com/
+Forecasting: Principles and Practice (2nd ed): https://otexts.com/fpp2/
+MANOVA: https://rpubs.com/collnell/manova
+PCA: https://www.datacamp.com/community/tutorials/pca-analysis-r
+PCA with factomine: http://www.sthda.com/english/articles/21-courses/65-principal-component-analysis-course-using-factominer/
+Multivariate analysis: https://rstudio-pubs-static.s3.amazonaws.com/246172_1930ddfb5f064b2bab54b11016ab407e.html
+Spatial multiscale analysis: https://cloud.r-project.org/web/packages/adespatial/vignettes/tutorial.html
+Spatiotemporal statistic with R: https://spacetimewithr.org/Spatio-Temporal%20Statistics%20with%20R.pdf
+Time Series for Fishery Analysis: https://nwfsc-timeseries.github.io/atsa-labs/
+Linear Regression for predictive modelling: https://www.dataquest.io/blog/statistical-learning-for-predictive-modeling-r/
+GLM for zero-inflated datta: https://fukamilab.github.io/BIO202/04-C-zero-data.html
+GLMM FAQ: https://bbolker.github.io/mixedmodels-misc/glmmFAQ.html
+Hierarchical bayesian models: https://opendatascience.com/hierarchical-bayesian-models-in-r/
+Heatwaves: https://robwschlegel.github.io/heatwaveR/
+Model testing and performance: https://easystats.github.io/performance/index.html
+Common statistical tests are linear models (or: how to teach stats): https://lindeloev.github.io/tests-as-linear/
+Easystats package: https://github.com/easystats/easystats
 
-- Getting started with R and R-studio: https://ourcodingclub.github.io/2016/11/13/intro-to-r.html
-- Coding Club Tutorials: https://ourcodingclub.github.io/tutorials/
-- Cleaning and visualizing genomic data: http://varianceexplained.org/r/tidy-genomics/
-- R for Reproducible Scientific Analysis: https://swcarpentry.github.io/r-novice-gapminder/
-- R-Studio Primers: https://rstudio.cloud/learn/primers
+## git
+gitcheasheet: http://ndpsoftware.com/git-cheatsheet.html#loc=local_repo;
+happy git: https://happygitwithr.com/
 
+## Miscellaneous tutorials
+Getting started with R and R-studio: https://ourcodingclub.github.io/2016/11/13/intro-to-r.html
+Coding Club Tutorials: https://ourcodingclub.github.io/tutorials/
+Cleaning and visualizing genomic data: http://varianceexplained.org/r/tidy-genomics/
+R for Reproducible Scientific Analysis: https://swcarpentry.github.io/r-novice-gapminder/
+R-Studio Primers: https://rstudio.cloud/learn/primers
+General statistic and viz. tutorial: http://r-statistics.co/
+How to make a reproducible example: https://stackoverflow.com/questions/5963269/how-to-make-a-great-r-reproducible-example
+Teaching R to new users: https://simplystatistics.org/2018/07/12/use-r-keynote-2018/
+rOpenSci: https://ropensci.org/
 
+## R-club blog
+https://cbmc-gcmp.github.io/
